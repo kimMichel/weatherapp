@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">WeatherApp</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Home -->
+    <string name="weather_temperature">0° C</string>
+    <string name="city_name_label">São Paulo</string>
+    <string name="temp_min">Temp min</string>
+    <string name="temp_max">Temp max</string>
+    <string name="feels_like">Sensação termica</string>
+    <string name="pressure">Pressão</string>
+    <string name="humidity">Umidade</string>
 </resources>
